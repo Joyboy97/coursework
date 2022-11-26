@@ -1,0 +1,174 @@
+20:18:11 **** Rebuild of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o graphMain.o "..\\graphMain.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:59:23: error: qualified-id in declaration before '(' token
+ int Graph::minDistance( ){ //8 pts
+                       ^
+..\Graph.cpp:69:22: error: qualified-id in declaration before '(' token
+ void Graph::printPath(int end){
+                      ^
+..\Graph.cpp:141:1: error: expected '}' at end of input
+ }
+ ^
+20:20:40 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:59:23: error: qualified-id in declaration before '(' token
+ int Graph::minDistance( ){ //8 pts
+                       ^
+..\Graph.cpp:69:22: error: qualified-id in declaration before '(' token
+ void Graph::printPath(int end){
+                      ^
+..\Graph.cpp:141:1: error: expected '}' at end of input
+ }
+ ^
+20:21:39 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:59:23: error: qualified-id in declaration before '(' token
+ int Graph::minDistance( ){ //8 pts
+                       ^
+..\Graph.cpp:69:22: error: qualified-id in declaration before '(' token
+ void Graph::printPath(int end){
+                      ^
+..\Graph.cpp:141:1: error: expected '}' at end of input
+ }
+ ^
+20:22:15 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:59:23: error: qualified-id in declaration before '(' token
+ int Graph::minDistance( ){ //8 pts
+                       ^
+..\Graph.cpp:69:22: error: qualified-id in declaration before '(' token
+ void Graph::printPath(int end){
+                      ^
+..\Graph.cpp:141:1: error: expected '}' at end of input
+ }
+ ^
+20:22:57 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:59:23: error: qualified-id in declaration before '(' token
+ int Graph::minDistance( ){ //8 pts
+                       ^
+..\Graph.cpp:69:22: error: qualified-id in declaration before '(' token
+ void Graph::printPath(int end){
+                      ^
+..\Graph.cpp:141:1: error: expected '}' at end of input
+ }
+ ^
+20:33:41 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::dijkstra()':
+..\Graph.cpp:50:26: error: cannot convert 'std::__cxx11::string {aka std::__cxx11::basic_string<char>}' to 'int' in assignment
+     prev[i]=dataArr[start];
+                          ^
+20:34:22 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+20:56:03 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+21:01:51 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+21:03:34 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+21:31:13 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+21:32:24 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+21:41:12 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+21:41:41 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+21:44:07 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+21:44:41 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+21:55:52 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+Info: Nothing to build for Graphing
+Info: Nothing to build for Graphing
+22:19:25 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:67:6: warning: variable 'newprev' set but not used [-Wunused-but-set-variable]
+  int newprev=-1;
+      ^~~~~~~
+g++ -o Graphing.exe Graph.o graphMain.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Graphing.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:20:05 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:73:5: error: 'newprev' was not declared in this scope
+     newprev=prev[i];
+     ^~~~~~~
+..\Graph.cpp:67:6: warning: unused variable 'nprev' [-Wunused-variable]
+  int nprev=1000;
+      ^~~~~
+22:20:14 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+..\Graph.cpp: In member function 'void Graph::setDistances(int)':
+..\Graph.cpp:67:6: warning: variable 'nprev' set but not used [-Wunused-but-set-variable]
+  int nprev=1000;
+      ^~~~~
+g++ -o Graphing.exe Graph.o graphMain.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Graphing.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:20:43 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -o Graphing.exe Graph.o graphMain.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Graphing.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:21:01 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -o Graphing.exe Graph.o graphMain.o 
+22:23:37 **** Incremental Build of configuration Debug for project Graphing ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Graph.o "..\\Graph.cpp" 
+g++ -o Graphing.exe Graph.o graphMain.o 
+Info: Nothing to build for Graphing

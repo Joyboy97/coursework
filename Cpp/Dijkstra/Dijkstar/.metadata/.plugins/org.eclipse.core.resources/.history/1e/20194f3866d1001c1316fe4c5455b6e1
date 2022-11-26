@@ -1,0 +1,18 @@
+/*
+ * Graph.cpp
+ *
+ *  Created on: May 11, 2022
+ *      Author: winne
+ */
+
+#include "Graph.hpp"
+
+Graph::Graph() {
+	// TODO Auto-generated constructor stub
+
+}
+
+Graph::~Graph() {
+	// TODO Auto-generated destructor stub
+}
+

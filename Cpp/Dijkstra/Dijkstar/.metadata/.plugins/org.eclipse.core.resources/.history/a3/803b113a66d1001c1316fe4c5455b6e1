@@ -1,0 +1,17 @@
+/*
+ * Graph.hpp
+ *
+ *  Created on: May 11, 2022
+ *      Author: winne
+ */
+
+#ifndef GRAPH_HPP_
+#define GRAPH_HPP_
+
+class Graph {
+public:
+	Graph();
+	virtual ~Graph();
+};
+
+#endif /* GRAPH_HPP_ */
